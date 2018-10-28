@@ -1,0 +1,17 @@
+homebrew_taps:
+  - caskroom/cask
+  - caskroom/versions
+
+homebrew_cask_packages:
+  - name: docker
+  - name: google-chrome
+  - name: google-japanese-ime
+  - name: slack
+  - name: vagrant
+  - name: virtualbox
+  - name: visual-studio-code
+
+homebrew_packages:
+  - name: ansible
+  - name: git
+  - name: rbenv
