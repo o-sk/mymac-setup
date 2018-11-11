@@ -13,6 +13,7 @@ homebrew_cask_packages:
 
 homebrew_packages:
   - name: ansible
+  - name: docker-compose
   - name: git
   - name: postgresql
   - name: rbenv
