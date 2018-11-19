@@ -17,4 +17,5 @@ homebrew_packages:
   - name: docker-compose
   - name: git
   - name: postgresql
+  - name: protobuf
   - name: rbenv
