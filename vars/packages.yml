@@ -15,6 +15,7 @@ homebrew_packages:
   - name: ansible
   - name: awscli
   - name: docker-compose
+  - name: hub
   - name: git
   - name: mysql
   - name: postgresql
