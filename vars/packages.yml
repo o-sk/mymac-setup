@@ -16,8 +16,11 @@ homebrew_packages:
   - name: awscli
   - name: docker-compose
   - name: hub
+  - name: ghq
   - name: git
   - name: mysql
+  - name: peco
   - name: postgresql
   - name: protobuf
   - name: rbenv
+  - name: zsh
