@@ -28,3 +28,9 @@
         name: "{{ item.name }}"
         state: "{{ item.state | default('present') }}"
       with_items: "{{ homebrew_packages }}"
+
+    - name: deploy .zprofile
+      copy:
+        src: templates/.zprofile
+        dest: ~/.zprofile
+        backup: yes
