@@ -18,7 +18,9 @@ homebrew_packages:
   - name: hub
   - name: ghq
   - name: git
+  - name: goenv
   - name: mysql
+  - name: nodebrew
   - name: peco
   - name: postgresql
   - name: protobuf
