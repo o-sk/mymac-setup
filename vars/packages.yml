@@ -15,6 +15,7 @@ homebrew_packages:
   - name: ansible
   - name: awscli
   - name: docker-compose
+  - name: heroku/brew/heroku
   - name: hub
   - name: ghq
   - name: git
