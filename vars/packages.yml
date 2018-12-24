@@ -14,6 +14,7 @@ homebrew_cask_packages:
 homebrew_packages:
   - name: ansible
   - name: awscli
+  - name: direnv
   - name: docker-compose
   - name: heroku/brew/heroku
   - name: hub
