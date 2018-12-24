@@ -16,11 +16,12 @@ homebrew_packages:
   - name: awscli
   - name: direnv
   - name: docker-compose
-  - name: heroku/brew/heroku
-  - name: hub
   - name: ghq
   - name: git
   - name: goenv
+  - name: heroku/brew/heroku
+  - name: hub
+  - name: jq
   - name: mysql
   - name: nodebrew
   - name: peco
